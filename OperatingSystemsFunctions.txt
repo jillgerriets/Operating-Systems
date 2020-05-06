@@ -1,3 +1,5 @@
 Operating System Function 1 - Operating systems provide a user interface. This interface controls how information is displayed on the screen and how data is entered. There are two types of user interfaces: graphical and command line.
 
 Operating System Function 2 - Operating systems provide program management. Productivity is directly impacted by how an operating system handles programs. There are two types of program management: single tasking or multitasking. 
+
+Operating System Function 3 - Operating systems provide memory management. First, the OS assigns instructions and data to an area of memory while they are being processed. It then monitors the memory contents. Lastly, when the processor no longer requires them, the OS releases items from being monitored in memory. 
