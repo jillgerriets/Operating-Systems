@@ -1,0 +1,1 @@
+Operating System Function 1 - Operating systems provide a user interface. This interface controls how information is displayed on the screen and how data is entered. There are two types of user interfaces: graphical and command line.
